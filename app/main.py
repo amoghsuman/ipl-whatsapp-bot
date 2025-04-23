@@ -4,19 +4,19 @@ from app.scheduler import get_today_matches
 
 app = FastAPI()
 
-@app.get("/")
-async def root():
-    return {"message": "IPL WhatsApp Bot is running! Use POST /bot for Twilio webhook."}
-
 @app.post("/bot")
 async def whatsapp_webhook(request: Request):
     form_data = await request.form()
     message_body = form_data.get("Body", "").lower()
+    print(f"📩 Incoming WhatsApp message: {message_body}")
 
-    if "today" in message_body:
-        response_text = get_today_matches()
-    else:
-        response_text = "Hi! Ask me: What's the IPL schedule today?"
+    try:
+        if "today" in message_body or "match" in message_body or "ipl" in message_body:
+            response_text = get_today_matches()
+        else:
+            response_text = "👋 Hi! You can ask:\n• What's the IPL schedule today?\n• Today's matches?\n• Any match today?"
+
+    except Exception as e:
+        response_text = f"⚠️ Error processing request: {str(e)}"
 
     return PlainTextResponse(response_text)
-
