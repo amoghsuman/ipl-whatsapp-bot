@@ -4,6 +4,10 @@ from app.scheduler import get_today_matches
 
 app = FastAPI()
 
+@app.get("/")
+async def root():
+    return {"message": "IPL WhatsApp Bot is running! Use POST /bot for Twilio webhook."}
+
 @app.post("/bot")
 async def whatsapp_webhook(request: Request):
     form_data = await request.form()
