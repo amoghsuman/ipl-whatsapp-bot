@@ -1,15 +1,594 @@
 [
   {
-    "date": "2025-04-23",
+    "match_no": 1,
+    "date": "2025-03-22",
     "time": "19:30 IST",
-    "teams": "RCB vs MI",
-    "venue": "M. Chinnaswamy Stadium, Bengaluru"
+    "day": "Saturday",
+    "teams": "Kolkata Knight Riders vs Royal Challengers Bengaluru",
+    "venue": "Kolkata"
   },
   {
-    "date": "2025-04-24",
+    "match_no": 2,
+    "date": "2025-03-23",
     "time": "15:30 IST",
-    "teams": "CSK vs KKR",
-    "venue": "MA Chidambaram Stadium, Chennai"
+    "day": "Sunday",
+    "teams": "Sunrisers Hyderabad vs Rajasthan Royals",
+    "venue": "Hyderabad"
+  },
+  {
+    "match_no": 3,
+    "date": "2025-03-23",
+    "time": "19:30 IST",
+    "day": "Sunday",
+    "teams": "Chennai Super Kings vs Mumbai Indians",
+    "venue": "Chennai"
+  },
+  {
+    "match_no": 4,
+    "date": "2025-03-24",
+    "time": "19:30 IST",
+    "day": "Monday",
+    "teams": "Delhi Capitals vs Lucknow Super Giants",
+    "venue": "Visakhapatnam"
+  },
+  {
+    "match_no": 5,
+    "date": "2025-03-25",
+    "time": "19:30 IST",
+    "day": "Tuesday",
+    "teams": "Gujarat Titans vs Punjab Kings",
+    "venue": "Ahmedabad"
+  },
+  {
+    "match_no": 6,
+    "date": "2025-03-26",
+    "time": "19:30 IST",
+    "day": "Wednesday",
+    "teams": "Rajasthan Royals vs Kolkata Knight Riders",
+    "venue": "Guwahati"
+  },
+  {
+    "match_no": 7,
+    "date": "2025-03-27",
+    "time": "19:30 IST",
+    "day": "Thursday",
+    "teams": "Sunrisers Hyderabad vs Lucknow Super Giants",
+    "venue": "Hyderabad"
+  },
+  {
+    "match_no": 8,
+    "date": "2025-03-28",
+    "time": "19:30 IST",
+    "day": "Friday",
+    "teams": "Chennai Super Kings vs Royal Challengers Bengaluru",
+    "venue": "Chennai"
+  },
+  {
+    "match_no": 9,
+    "date": "2025-03-29",
+    "time": "19:30 IST",
+    "day": "Saturday",
+    "teams": "Gujarat Titans vs Mumbai Indians",
+    "venue": "Ahmedabad"
+  },
+  {
+    "match_no": 10,
+    "date": "2025-03-30",
+    "time": "15:30 IST",
+    "day": "Sunday",
+    "teams": "Delhi Capitals vs Sunrisers Hyderabad",
+    "venue": "Visakhapatnam"
+  },
+  {
+    "match_no": 11,
+    "date": "2025-03-30",
+    "time": "19:30 IST",
+    "day": "Sunday",
+    "teams": "Rajasthan Royals vs Chennai Super Kings",
+    "venue": "Guwahati"
+  },
+  {
+    "match_no": 12,
+    "date": "2025-03-31",
+    "time": "19:30 IST",
+    "day": "Monday",
+    "teams": "Mumbai Indians vs Kolkata Knight Riders",
+    "venue": "Mumbai"
+  },
+  {
+    "match_no": 13,
+    "date": "2025-04-01",
+    "time": "19:30 IST",
+    "day": "Tuesday",
+    "teams": "Lucknow Super Giants vs Punjab Kings",
+    "venue": "Lucknow"
+  },
+  {
+    "match_no": 14,
+    "date": "2025-04-02",
+    "time": "19:30 IST",
+    "day": "Wednesday",
+    "teams": "Royal Challengers Bengaluru vs Gujarat Titans",
+    "venue": "Bengaluru"
+  },
+  {
+    "match_no": 15,
+    "date": "2025-04-03",
+    "time": "19:30 IST",
+    "day": "Thursday",
+    "teams": "Kolkata Knight Riders vs Sunrisers Hyderabad",
+    "venue": "Kolkata"
+  },
+  {
+    "match_no": 16,
+    "date": "2025-04-04",
+    "time": "19:30 IST",
+    "day": "Friday",
+    "teams": "Lucknow Super Giants vs Mumbai Indians",
+    "venue": "Lucknow"
+  },
+  {
+    "match_no": 17,
+    "date": "2025-04-05",
+    "time": "15:30 IST",
+    "day": "Saturday",
+    "teams": "Chennai Super Kings vs Delhi Capitals",
+    "venue": "Chennai"
+  },
+  {
+    "match_no": 18,
+    "date": "2025-04-05",
+    "time": "19:30 IST",
+    "day": "Saturday",
+    "teams": "Punjab Kings vs Rajasthan Royals",
+    "venue": "New Chandigarh"
+  },
+  {
+    "match_no": 19,
+    "date": "2025-04-06",
+    "time": "19:30 IST",
+    "day": "Sunday",
+    "teams": "Sunrisers Hyderabad vs Gujarat Titans",
+    "venue": "Hyderabad"
+  },
+  {
+    "match_no": 20,
+    "date": "2025-04-07",
+    "time": "19:30 IST",
+    "day": "Monday",
+    "teams": "Mumbai Indians vs Royal Challengers Bengaluru",
+    "venue": "Mumbai"
+  },
+  {
+    "match_no": 21,
+    "date": "2025-04-08",
+    "time": "15:30 IST",
+    "day": "Tuesday",
+    "teams": "Kolkata Knight Riders vs Lucknow Super Giants",
+    "venue": "Kolkata"
+  },
+  {
+    "match_no": 22,
+    "date": "2025-04-08",
+    "time": "19:30 IST",
+    "day": "Tuesday",
+    "teams": "Punjab Kings vs Chennai Super Kings",
+    "venue": "New Chandigarh"
+  },
+  {
+    "match_no": 23,
+    "date": "2025-04-09",
+    "time": "19:30 IST",
+    "day": "Wednesday",
+    "teams": "Gujarat Titans vs Rajasthan Royals",
+    "venue": "Ahmedabad"
+  },
+  {
+    "match_no": 24,
+    "date": "2025-04-10",
+    "time": "19:30 IST",
+    "day": "Thursday",
+    "teams": "Royal Challengers Bengaluru vs Delhi Capitals",
+    "venue": "Bengaluru"
+  },
+  {
+    "match_no": 25,
+    "date": "2025-04-11",
+    "time": "19:30 IST",
+    "day": "Friday",
+    "teams": "Chennai Super Kings vs Kolkata Knight Riders",
+    "venue": "Chennai"
+  },
+  {
+    "match_no": 26,
+    "date": "2025-04-12",
+    "time": "15:30 IST",
+    "day": "Saturday",
+    "teams": "Lucknow Super Giants vs Gujarat Titans",
+    "venue": "Lucknow"
+  },
+  {
+    "match_no": 27,
+    "date": "2025-04-12",
+    "time": "19:30 IST",
+    "day": "Saturday",
+    "teams": "Sunrisers Hyderabad vs Punjab Kings",
+    "venue": "Hyderabad"
+  },
+  {
+    "match_no": 28,
+    "date": "2025-04-13",
+    "time": "15:30 IST",
+    "day": "Sunday",
+    "teams": "Rajasthan Royals vs Royal Challengers Bengaluru",
+    "venue": "Jaipur"
+  },
+  {
+    "match_no": 29,
+    "date": "2025-04-13",
+    "time": "19:30 IST",
+    "day": "Sunday",
+    "teams": "Delhi Capitals vs Mumbai Indians",
+    "venue": "Delhi"
+  },
+  {
+    "match_no": 30,
+    "date": "2025-04-14",
+    "time": "19:30 IST",
+    "day": "Monday",
+    "teams": "Lucknow Super Giants vs Chennai Super Kings",
+    "venue": "Lucknow"
+  },
+  {
+    "match_no": 31,
+    "date": "2025-04-15",
+    "time": "19:30 IST",
+    "day": "Tuesday",
+    "teams": "Punjab Kings vs Kolkata Knight Riders",
+    "venue": "New Chandigarh"
+  },
+  {
+    "match_no": 32,
+    "date": "2025-04-16",
+    "time": "19:30 IST",
+    "day": "Wednesday",
+    "teams": "Delhi Capitals vs Rajasthan Royals",
+    "venue": "Delhi"
+  },
+  {
+    "match_no": 33,
+    "date": "2025-04-17",
+    "time": "19:30 IST",
+    "day": "Thursday",
+    "teams": "Mumbai Indians vs Sunrisers Hyderabad",
+    "venue": "Mumbai"
+  },
+  {
+    "match_no": 34,
+    "date": "2025-04-18",
+    "time": "19:30 IST",
+    "day": "Friday",
+    "teams": "Royal Challengers Bengaluru vs Punjab Kings",
+    "venue": "Bengaluru"
+  },
+  {
+    "match_no": 35,
+    "date": "2025-04-19",
+    "time": "15:30 IST",
+    "day": "Saturday",
+    "teams": "Gujarat Titans vs Delhi Capitals",
+    "venue": "Ahmedabad"
+  },
+  {
+    "match_no": 36,
+    "date": "2025-04-19",
+    "time": "19:30 IST",
+    "day": "Saturday",
+    "teams": "Rajasthan Royals vs Lucknow Super Giants",
+    "venue": "Jaipur"
+  },
+  {
+    "match_no": 37,
+    "date": "2025-04-20",
+    "time": "15:30 IST",
+    "day": "Sunday",
+    "teams": "Punjab Kings vs Royal Challengers Bengaluru",
+    "venue": "New Chandigarh"
+  },
+  {
+    "match_no": 38,
+    "date": "2025-04-20",
+    "time": "19:30 IST",
+    "day": "Sunday",
+    "teams": "Mumbai Indians vs Chennai Super Kings",
+    "venue": "Mumbai"
+  },
+  {
+    "match_no": 39,
+    "date": "2025-04-21",
+    "time": "19:30 IST",
+    "day": "Monday",
+    "teams": "Kolkata Knight Riders vs Gujarat Titans",
+    "venue": "Kolkata"
+  },
+  {
+    "match_no": 40,
+    "date": "2025-04-22",
+    "time": "19:30 IST",
+    "day": "Tuesday",
+    "teams": "Lucknow Super Giants vs Delhi Capitals",
+    "venue": "Lucknow"
+  },
+  {
+    "match_no": 41,
+    "date": "2025-04-23",
+    "time": "19:30 IST",
+    "day": "Wednesday",
+    "teams": "Sunrisers Hyderabad vs Mumbai Indians",
+    "venue": "Hyderabad"
+  },
+  {
+    "match_no": 42,
+    "date": "2025-04-24",
+    "time": "19:30 IST",
+    "day": "Thursday",
+    "teams": "Royal Challengers Bengaluru vs Rajasthan Royals",
+    "venue": "Bengaluru"
+  },
+  {
+    "match_no": 43,
+    "date": "2025-04-25",
+    "time": "19:30 IST",
+    "day": "Friday",
+    "teams": "Chennai Super Kings vs Sunrisers Hyderabad",
+    "venue": "Chennai"
+  },
+  {
+    "match_no": 44,
+    "date": "2025-04-26",
+    "time": "19:30 IST",
+    "day": "Saturday",
+    "teams": "Kolkata Knight Riders vs Punjab Kings",
+    "venue": "Kolkata"
+  },
+  {
+    "match_no": 45,
+    "date": "2025-04-27",
+    "time": "15:30 IST",
+    "day": "Sunday",
+    "teams": "Mumbai Indians vs Lucknow Super Giants",
+    "venue": "Mumbai"
+  },
+  {
+    "match_no": 46,
+    "date": "2025-04-27",
+    "time": "19:30 IST",
+    "day": "Sunday",
+    "teams": "Delhi Capitals vs Royal Challengers Bengaluru",
+    "venue": "Delhi"
+  },
+  {
+    "match_no": 47,
+    "date": "2025-04-28",
+    "time": "19:30 IST",
+    "day": "Monday",
+    "teams": "Rajasthan Royals vs Gujarat Titans",
+    "venue": "Jaipur"
+  },
+  {
+    "match_no": 48,
+    "date": "2025-04-29",
+    "time": "19:30 IST",
+    "day": "Tuesday",
+    "teams": "Delhi Capitals vs Kolkata Knight Riders",
+    "venue": "Delhi"
+  },
+  {
+    "match_no": 49,
+    "date": "2025-04-30",
+    "time": "19:30 IST",
+    "day": "Wednesday",
+    "teams": "Chennai Super Kings vs Punjab Kings",
+    "venue": "Chennai"
+  },
+  {
+    "match_no": 50,
+    "date": "2025-05-01",
+    "time": "19:30 IST",
+    "day": "Thursday",
+    "teams": "Rajasthan Royals vs Mumbai Indians",
+    "venue": "Jaipur"
+  },
+  {
+    "match_no": 51,
+    "date": "2025-05-02",
+    "time": "19:30 IST",
+    "day": "Friday",
+    "teams": "Gujarat Titans vs Sunrisers Hyderabad",
+    "venue": "Ahmedabad"
+  },
+  {
+    "match_no": 52,
+    "date": "2025-05-03",
+    "time": "19:30 IST",
+    "day": "Saturday",
+    "teams": "Royal Challengers Bengaluru vs Chennai Super Kings",
+    "venue": "Bengaluru"
+  },
+  {
+    "match_no": 53,
+    "date": "2025-05-04",
+    "time": "15:30 IST",
+    "day": "Sunday",
+    "teams": "Kolkata Knight Riders vs Rajasthan Royals",
+    "venue": "Kolkata"
+  },
+  {
+    "match_no": 54,
+    "date": "2025-05-04",
+    "time": "19:30 IST",
+    "day": "Sunday",
+    "teams": "Punjab Kings vs Lucknow Super Giants",
+    "venue": "Dharamsala"
+  },
+  {
+    "match_no": 55,
+    "date": "2025-05-05",
+    "time": "19:30 IST",
+    "day": "Monday",
+    "teams": "Sunrisers Hyderabad vs Delhi Capitals",
+    "venue": "Hyderabad"
+  },
+  {
+    "match_no": 56,
+    "date": "2025-05-06",
+    "time": "19:30 IST",
+    "day": "Tuesday",
+    "teams": "Mumbai Indians vs Gujarat Titans",
+    "venue": "Mumbai"
+  },
+  {
+    "match_no": 57,
+    "date": "2025-05-07",
+    "time": "19:30 IST",
+    "day": "Wednesday",
+    "teams": "Kolkata Knight Riders vs Chennai Super Kings",
+    "venue": "Kolkata"
+  },
+  {
+    "match_no": 58,
+    "date": "2025-05-08",
+    "time": "19:30 IST",
+    "day": "Thursday",
+    "teams": "Punjab Kings vs Delhi Capitals",
+    "venue": "Dharamsala"
+  },
+  {
+    "match_no": 59,
+    "date": "2025-05-09",
+    "time": "19:30 IST",
+    "day": "Friday",
+    "teams": "Lucknow Super Giants vs Royal Challengers Bengaluru",
+    "venue": "Lucknow"
+  },
+  {
+    "match_no": 60,
+    "date": "2025-05-10",
+    "time": "19:30 IST",
+    "day": "Saturday",
+    "teams": "Sunrisers Hyderabad vs Kolkata Knight Riders",
+    "venue": "Hyderabad"
+  },
+  {
+    "match_no": 61,
+    "date": "2025-05-11",
+    "time": "15:30 IST",
+    "day": "Sunday",
+    "teams": "Punjab Kings vs Mumbai Indians",
+    "venue": "Dharamsala"
+  },
+  {
+    "match_no": 62,
+    "date": "2025-05-11",
+    "time": "19:30 IST",
+    "day": "Sunday",
+    "teams": "Delhi Capitals vs Gujarat Titans",
+    "venue": "Delhi"
+  },
+  {
+    "match_no": 63,
+    "date": "2025-05-12",
+    "time": "19:30 IST",
+    "day": "Monday",
+    "teams": "Chennai Super Kings vs Rajasthan Royals",
+    "venue": "Chennai"
+  },
+  {
+    "match_no": 64,
+    "date": "2025-05-13",
+    "time": "19:30 IST",
+    "day": "Tuesday",
+    "teams": "Royal Challengers Bengaluru vs Sunrisers Hyderabad",
+    "venue": "Bengaluru"
+  },
+  {
+    "match_no": 65,
+    "date": "2025-05-14",
+    "time": "19:30 IST",
+    "day": "Wednesday",
+    "teams": "Gujarat Titans vs Lucknow Super Giants",
+    "venue": "Ahmedabad"
+  },
+  {
+    "match_no": 66,
+    "date": "2025-05-15",
+    "time": "19:30 IST",
+    "day": "Thursday",
+    "teams": "Mumbai Indians vs Delhi Capitals",
+    "venue": "Mumbai"
+  },
+  {
+    "match_no": 67,
+    "date": "2025-05-16",
+    "time": "19:30 IST",
+    "day": "Friday",
+    "teams": "Rajasthan Royals vs Punjab Kings",
+    "venue": "Jaipur"
+  },
+  {
+    "match_no": 68,
+    "date": "2025-05-17",
+    "time": "19:30 IST",
+    "day": "Saturday",
+    "teams": "Royal Challengers Bengaluru vs Kolkata Knight Riders",
+    "venue": "Bengaluru"
+  },
+  {
+    "match_no": 69,
+    "date": "2025-05-18",
+    "time": "15:30 IST",
+    "day": "Sunday",
+    "teams": "Gujarat Titans vs Chennai Super Kings",
+    "venue": "Ahmedabad"
+  },
+  {
+    "match_no": 70,
+    "date": "2025-05-18",
+    "time": "19:30 IST",
+    "day": "Sunday",
+    "teams": "Lucknow Super Giants vs Sunrisers Hyderabad",
+    "venue": "Lucknow"
+  },
+  {
+    "match_no": 71,
+    "date": "2025-05-20",
+    "time": "19:30 IST",
+    "day": "Tuesday",
+    "teams": "Qualifier 1",
+    "venue": "Hyderabad"
+  },
+  {
+    "match_no": 72,
+    "date": "2025-05-21",
+    "time": "19:30 IST",
+    "day": "Wednesday",
+    "teams": "Eliminator",
+    "venue": "Hyderabad"
+  },
+  {
+    "match_no": 73,
+    "date": "2025-05-23",
+    "time": "19:30 IST",
+    "day": "Friday",
+    "teams": "Qualifier 2",
+    "venue": "Kolkata"
+  },
+  {
+    "match_no": 74,
+    "date": "2025-05-25",
+    "time": "19:30 IST",
+    "day": "Sunday",
+    "teams": "Final",
+    "venue": "Kolkata"
   }
 ]
-
